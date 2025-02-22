@@ -1,0 +1,2 @@
+ALTER TABLE books
+ADD COLUMN price DECIMAL(5,2) ;
